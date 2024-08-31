@@ -1,0 +1,118 @@
+From 9ffe998b7890b8938c750f8e37591e656daadff5 Mon Sep 17 00:00:00 2001
+From: ArjunR01 <arjunjanampally@gmail.com>
+Date: Sat, 31 Aug 2024 16:59:21 +0530
+Subject: [PATCH] Changes made succesfully in all methods
+
+---
+ __pycache__/client3.cpython-312.pyc | Bin 0 -> 1695 bytes
+ __pycache__/client3.cpython-38.pyc  | Bin 0 -> 1060 bytes
+ client3.py                          |  16 ++++++++++------
+ 3 files changed, 10 insertions(+), 6 deletions(-)
+ create mode 100644 __pycache__/client3.cpython-312.pyc
+ create mode 100644 __pycache__/client3.cpython-38.pyc
+
+diff --git a/__pycache__/client3.cpython-312.pyc b/__pycache__/client3.cpython-312.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..09cc33c063e34226298c7264ab3f9091c60451fe
+GIT binary patch
+literal 1695
+zcmahJOKcNIbjIFYdx`Df{D34?H*KMq<_CxZQ7D2WR8%5OD4?=(yV`gsVI6zd%&tM%
+z8Y!xJFlrA*JrINt>5VFff>f!fCt40Y^b*HHxI+(Al`3%yNl!?X`etpnse;sz_PsZ6
+z-v6^dN26O1oNxbHnSLlE^gF*aPP9&}FJOeOBLf*YgVY+vD)#RIHE0A>!3e6NA$*2Z
+z$q)gCNZ62OcOyi<2_PcFw}psHV1=Is9z`GBLP%|bSCrmfd)o*}Fx|QFUZc~mY~~Rm
+z{pw~e*v09<X8uy0)rg~k(>?z$tHw>Fw#bOYA^JBU`d08Fk=BNdqyW4&wO#E{x53MH
+zBShM6Vk1o20m`HU;1;qCVACzRp@Y#Ey9DG*M*xOMixJ%cp#Y9?yj0J@lm4w8=-d|2
+z9G=68=4U+Yaj)ls>*j_A1~PU^&s?w_cj(aIp}~QRc|zxon#Pe&u9$y92U7Jea3uuM
+zq9A<h7J%zWMg{0G_jv`o|HuI^z<EZ{kEYJQ68MjV@Dhn&Ay5c<TvPO#z@|{ZoKp~{
+zg%40d@(wB!)Hd=dqUf27;$9$%MTkKR<&vJs6Gw4vWrkRU>MlqqhVJS)+q7JTiH>Wh
+zW?9I!bJ~<?Ffm8X6sg^HXZ9H{SOPO~I%Df@LS*8_yzLUovt=?UXf=5mWNRda(jrF$
+zpz!nJ%*asktV5`iOzW1O)$*2g*g8Oy?^|S)nwLm&)K2BI#B!bFdlRQ@I-^_3X`AXZ
+zq%WPzruv-Aq|XKGeS4Fsj0tl4`*U+FGDF-^$YO$LL1Ww-cY6lFJbEe&S0nM#n^(u@
+z$9~<~ULp%8%N@HGFPA$8Dq9EVPri&-jdqmg%28#pryO~GeyrNGwUk&me@9$y>RT52
+z*1;}HZCn6O`|aj?<+mFf*k4mT7bu_t=52!31ijakcZsV&<xN|$rxm|mny%=UQKzRA
+z%B_umjS>MCs=qggDTlu)3gv$g7KXG>b4#=hu6y8f_^{Mc4#i6NQ?DA1RhwE$2d^Go
+z7CLFOucc{O-Ly2#3r+Iw8Hy(>x~uGl{tbCjuL9*A^1{8fc!pl!gctU`C_5b%Ja&A9
+z1xLqDBz7<%?bsHRD8z1OSu9U88FQ+i5?Bn!Wm4_V#L2T`r_VDy?)Sxyl!Y}7nol&1
+z2_}pW6T!v|VOV1#43^=rP{T?Htk^jMZeR+sy2}Jgbc0F$+&N70>*G-VtM#XlLY)zf
+zaKI<eA7B`XIA`$e{ldKn4`*RLGUOfl7V!AqIe!3H4PuPf_aGd3f}&4Q`>KTG-gyy_
+z7@o&#QV932wTZZEwFL>0qPG&<@mn;0ZRZ01a`)#SuOV3+!9`q+ca_?%cV6pUIB|RY
+z#`xpzedX?bcMp6wd~f(c^nvtK^oQuf=F0wwO84aB?sMhtbCvE7EAjJ1soESbN>9Th
+z)%LD66p#&E9Q$SOk^7{wceEVoFOHQCFPL}QStR~_{zr3VQe8>v%PmunBB@o8OFs`I
+qIaW;HIJ9`;&VjE^-F^H1&U;5HUB}9?V~@hepSSYpRz*~wg1-TCQ>lso
+
+literal 0
+HcmV?d00001
+
+diff --git a/__pycache__/client3.cpython-38.pyc b/__pycache__/client3.cpython-38.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..eb163fff6c15616690be4775f0103efd15add07d
+GIT binary patch
+literal 1060
+zcmYjQOK%fN5bmCbXPg(|5kolju7nmNLO^J>*=T{4FhW9FHav3JmeHs)U3MlJPdnXh
+zR(PG0`6146_ppD1JIA?l;?9W^)$JsrTU}jMQ?B~ztM=~l@&duN^5J8z(<J1RGrnKw
+zBfsM@|D%vZ(vtA`O*!>;z(X1ENQOL?k&NFH-jEHM;GIA!)5Adj2TfRjcuJ?VL*7Wf
+z2xPVd;lc831)|vnpfh?xPUs1pt-70Ego_w=lV5@cT$<8u#4qzJe2ur@s%*k#xB_d?
+z>P0OwrIZ|%=v{yWTF{yXr@oG)uSk3GGh!ys$3N^_JKWyfELASbeP!(S*4?eUn@1zi
+z?;aKM!9T~v7fMKu=X}MeMR*?LF<U4m*!wy;rq*e}I+5Wz);|us9i7|ZBsh*HbP`O$
+zNz{uFMLhn6?Pw)OIWSR{%<coL03=BER+J+!%qrH03be2o!KAQasEW$6IyP42hjn7r
+zFxx9+9S?Pp!`v3;uubc@S1MuKaUCCxlm#6i(z=PU**vs~VRKcxZvG|Ojr;5C$J^aq
+z1KM;CL?s5<sH%Rge%9STE9mIrEp$679}S?gru%H?52gE}>h_cteb_h{4)P82H*8o;
+zy>YLbmj%Y%zcYMSFZIE85dDrvk9CZHTVYC9aYs}yp)Yq3&z932>z-u?(9bOx|Hz(#
+zWk^V&nCda#OD348<f*>LKD*!fZrTA)P9x5gJ^x`Y7BQ|)5!y?a?iO0cLkRVX|B__`
+zQB+wr{^^CIP_i3_3CnIGiQ6~KZH8_7+m}GCJx+ZljB8)x(ScD_-Ovb44fx7Pmu0bc
+zM*}`CV|in4^Z3Q?lb3(h^tq?tyf9J^Syo2{POgqIM;~gM)iKUg8lIeGNid5V0+zuU
+z41}#C4MNrpKXRiJM}%uhr%t$ktRJ?2E|vX`3O5ct=i|2lzQ__DuA$3ZN0Cz8VT3zf
+ONRu>JrOXem6?_ATeG-2F
+
+literal 0
+HcmV?d00001
+
+diff --git a/client3.py b/client3.py
+index 3fc09b7..bbff010 100644
+--- a/client3.py
++++ b/client3.py
+@@ -29,31 +29,35 @@ QUERY = "http://localhost:8080/query?id={}"
+ N = 500
+ 
+ 
+-def getDataPoint(quote):
++def getDataPoint(quote):#this one
+     """ Produce all the needed values to generate a datapoint """
+     """ ------------- Update this function ------------- """
+     stock = quote['stock']
+     bid_price = float(quote['top_bid']['price'])
+     ask_price = float(quote['top_ask']['price'])
+-    price = bid_price
++    price = (bid_price+ask_price)/2
+     return stock, bid_price, ask_price, price
+ 
+ 
+-def getRatio(price_a, price_b):
++def getRatio(price_a, price_b):#this one
+     """ Get ratio of price_a and price_b """
+     """ ------------- Update this function ------------- """
+-    return 1
++    if(price_b==0):
++        return
++    return price_a/price_b
+ 
+ 
+ # Main
+-if __name__ == "__main__":
++if __name__ == "__main__":#this one
+     # Query the price once every N seconds.
+     for _ in iter(range(N)):
+         quotes = json.loads(urllib.request.urlopen(QUERY.format(random.random())).read())
++        prices={}
+ 
+         """ ----------- Update to get the ratio --------------- """
+         for quote in quotes:
+             stock, bid_price, ask_price, price = getDataPoint(quote)
++            prices[stock]=price
+             print("Quoted %s at (bid:%s, ask:%s, price:%s)" % (stock, bid_price, ask_price, price))
+ 
+-        print("Ratio %s" % getRatio(price, price))
++        print("Ratio %s" % getRatio(prices["ABC"], prices["DEF"]))
+-- 
+2.46.0.windows.1
+
